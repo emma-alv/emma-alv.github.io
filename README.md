@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Emmanuel Rodriguez Alvarado
+## RTU - M.Sc. Telecommunications
+### RAE411 Telecommunication Software
 
 You can use the [editor on GitHub](https://github.com/emma-alv/emma-alv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
